@@ -119,10 +119,10 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Scikit-learn · J
 ## Repository Structure
 
 ```
-├── Zomato_Restaurant_Clustering_Submission.ipynb   # Complete analysis notebook
+├── README.md 
 ├── Zomato_Restaurant_names_and_Metadata.csv        # Restaurant data
 ├── Zomato_Restaurant_reviews.csv                   # Review data
-└── README.md
+└── Zomato_Restaurant_Clustering_Submission.ipynb   # Complete analysis notebook
 ```
 
 ---
