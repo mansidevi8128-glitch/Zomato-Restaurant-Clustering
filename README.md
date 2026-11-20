@@ -129,6 +129,6 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Scikit-learn · J
 
 ## Author
 
-**[Your Name]**
+**[Mansi Devi]**
 Data Science Intern, Labmentix
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+[LinkedIn](https://www.linkedin.com/in/mansi-devi-501343448/) · [GitHub](https://github.com/mansidevi8128-glitch/Zomato-Restaurant-Clustering)
